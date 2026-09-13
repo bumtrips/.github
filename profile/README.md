@@ -19,8 +19,8 @@ The [marketing site](https://bumtrips.com) is a static, no-build, vanilla HTML/C
 ## Listen
 
 - [bumtrips.com](https://bumtrips.com) — the site
-- [Apple Podcasts](https://podcasts.apple.com/us/podcast/beatniks-bumtrips-bullshit/id1772855030)
-- [Spotify](https://open.spotify.com/show/3rGN5cD4LPCOp1vGRWl7tJ)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/beatniks-bumtrips-b-t/id1663479533)
+- [Spotify](https://open.spotify.com/show/43GiaQy9E5rkp6LfzXrvAM)
 - [RSS](https://anchor.fm/s/4431c4ac/podcast/rss)
 
 ## Tech (for the curious)
