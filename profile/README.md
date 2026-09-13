@@ -33,7 +33,7 @@ The [marketing site](https://bumtrips.com) is a static, no-build, vanilla HTML/C
 
 ## How the site is built
 
-AI agents did the cover art, the page structure, the a11y audit, the perf pass, and this README. Humans did the recording, the talking, and the editing. See the [site's `#how` section](https://bumtrips.com/#how) for the full transparency note.
+AI agents did the cover art, the page structure, the a11y audit, the perf pass, and this README. Humans did the recording, the talking, and the editing.
 
 ## Contact
 
