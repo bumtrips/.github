@@ -38,3 +38,7 @@ AI agents did the cover art, the page structure, the a11y audit, the perf pass, 
 ## Contact
 
 Open an issue on [beatniks-bumtrips-bullshit](https://github.com/bumtrips/beatniks-bumtrips-bullshit/issues) or reach the show through the [contact form on the site](https://bumtrips.com/#contact).
+
+---
+
+[![Necrometer](necrometer.svg)](https://necrometer.dev/?u=bumtrips)
