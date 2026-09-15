@@ -41,4 +41,8 @@ Open an issue on [beatniks-bumtrips-bullshit](https://github.com/bumtrips/beatni
 
 ---
 
+<div align="center">
+
 [![Necrometer](necrometer.svg)](https://necrometer.dev/?u=bumtrips)
+
+</div>
