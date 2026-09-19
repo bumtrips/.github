@@ -4,19 +4,6 @@
 
 **A field-recorded journey through literature, consciousness, and counterculture.**
 
-[![secured by studio2201](https://img.shields.io/badge/secured%20by-studio2201-2f6f5e?logo=shield)](https://studio2201.com) [![snip][b-snip]][ci-snip] [![vigil][b-vigil]][ci-vigil] [![aegis][b-aegis]][ci-aegis] [![proven][b-proven]][ci-proven] [![boneyard][b-boneyard]][ci-boneyard]
-
-[b-snip]: https://img.shields.io/github/actions/workflow/status/bumtrips/.github/snip.yml?label=snip&logo=shield
-[ci-snip]: https://github.com/bumtrips/.github/actions/workflows/snip.yml
-[b-vigil]: https://img.shields.io/github/actions/workflow/status/bumtrips/.github/vigil.yml?label=vigil&logo=shield
-[ci-vigil]: https://github.com/bumtrips/.github/actions/workflows/vigil.yml
-[b-aegis]: https://img.shields.io/github/actions/workflow/status/bumtrips/.github/aegis.yml?label=aegis&logo=shield
-[ci-aegis]: https://github.com/bumtrips/.github/actions/workflows/aegis.yml
-[b-proven]: https://img.shields.io/github/actions/workflow/status/bumtrips/.github/proven.yml?label=proven&logo=shield
-[ci-proven]: https://github.com/bumtrips/.github/actions/workflows/proven.yml
-[b-boneyard]: https://img.shields.io/github/actions/workflow/status/bumtrips/.github/boneyard.yml?label=boneyard&logo=shield
-[ci-boneyard]: https://github.com/bumtrips/.github/actions/workflows/boneyard.yml
-
 [bumtrips.com](https://bumtrips.com) · [beatniks-bumtrips-bullshit](https://github.com/bumtrips/beatniks-bumtrips-bullshit) · [RSS](https://anchor.fm/s/4431c4ac/podcast/rss)
 
 ---
