@@ -4,7 +4,7 @@
 
 **A field-recorded journey through literature, consciousness, and counterculture.**
 
-[![studio2201](https://img.shields.io/github/actions/status/bumtrips/.github/studio2201.yml?branch=master&logo=shield)](https://github.com/bumtrips/.github/actions/workflows/studio2201.yml)
+[![studio2201](https://img.shields.io/github/actions/workflow/status/bumtrips/.github/.github/workflows/studio2201.yml?branch=master&logo=shield)](https://github.com/bumtrips/.github/actions/workflows/studio2201.yml)
 
 [bumtrips.com](https://bumtrips.com) · [beatniks-bumtrips-bullshit](https://github.com/bumtrips/beatniks-bumtrips-bullshit) · [RSS](https://anchor.fm/s/4431c4ac/podcast/rss)
 
