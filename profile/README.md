@@ -4,12 +4,7 @@
 
 **A field-recorded journey through literature, consciousness, and counterculture.**
 
-[![studio2201 Suite](https://img.shields.io/badge/studio2201-5%2F5%20Verified-2f6f5e?logo=shield)](https://github.com/bumtrips/.github/actions/workflows/studio2201.yml)
-[![Vibe-Safe](https://img.shields.io/badge/vibe--safe-SHIP-brightgreen.svg)](https://studio2201.com/snip)
-[![Dormancy](https://img.shields.io/badge/dormancy-healthy-2f6f5e.svg)](https://studio2201.com/vigil)
-[![PQC](https://img.shields.io/badge/PQC-Quantum--Safe-blueviolet.svg)](https://studio2201.com/aegis)
-[![SLSA](https://img.shields.io/badge/SLSA-Level%203%2B-blue.svg)](https://studio2201.com/proven)
-[![Boneyard](https://img.shields.io/badge/boneyard%20index-0%2F100-brightgreen.svg)](https://studio2201.com/boneyard)
+[![studio2201](https://img.shields.io/badge/studio2201-5%2F5%20Verified-2f6f5e?logo=shield)](https://github.com/bumtrips/.github/actions/workflows/studio2201.yml)
 
 [bumtrips.com](https://bumtrips.com) · [beatniks-bumtrips-bullshit](https://github.com/bumtrips/beatniks-bumtrips-bullshit) · [RSS](https://anchor.fm/s/4431c4ac/podcast/rss)
 
